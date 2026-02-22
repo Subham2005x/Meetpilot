@@ -1,0 +1,5 @@
+/* MeetPilot Options — layout handled in Options.tsx inline styles */
+body {
+  background: #0d0d1f;
+  min-width: 600px;
+}
